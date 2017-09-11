@@ -1,7 +1,13 @@
 ## Welcome to my place on the internet.
 
+I **write** on a daily basis, you can see what my latest thoughts are [here](https://medium.com/@santoshsankar).
+I **engage** most on social media, you can chat with me on [Twitter](http://twitter.com/@santoshsankar).
+
+## About Me
 I’m Cofounder and Director of [Dynamo](http://dynamo.vc), responsible for the strategic vision, planning, and execution (investing) of our global seed fund. Our investing activities tend to focus on early stage technology businesses that have the potential to transform commerce with a concentration in what we dub “logistics technology” that encompasses supply chain and transportation.
-I believe that people & product are the fundamental units of any business. I enjoy discussions around the intersection of design, technology, business, and the capital markets. Sector-wise, I am particularly interested in anything related to global trade and commerce: supply chain, logistics, transportation, insurance, and financial services.
+
+**I believe that people & product are the fundamental units of any business.** I enjoy discussions around the intersection of design, technology, business, and the capital markets. Sector-wise, I am particularly interested in anything related to global trade and commerce: supply chain, transportation, insurance, and financial services.
+
 In my free time, I enjoy traveling and hiking which I’ve channeled into a hobby of taking photos wherever I go. Additionally, I like to work out, cook, and root for Penn State football. I live in Chattanooga, TN with my wife and rambunctious golden retrievers.
 
 ## System of Record
