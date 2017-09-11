@@ -1,6 +1,7 @@
 ## Welcome to my place on the internet.
 
 I **write** on a daily basis, you can see what my latest thoughts are [here](https://medium.com/@santoshsankar).
+
 I **engage** most on social media, you can chat with me on [Twitter](http://twitter.com/@santoshsankar).
 
 ## About Me
