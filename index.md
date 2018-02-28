@@ -1,6 +1,6 @@
 ## Welcome to my place on the internet.
 
-I **write** on a daily basis, you can see what my latest thoughts are [here](https://medium.com/@santoshsankar).
+I try to **write** regularly, you can see what my latest thoughts are [here](https://medium.com/@santoshsankar).
 
 I **engage** most on social media, you can chat with me on [Twitter](http://twitter.com/@santoshsankar).
 
@@ -12,6 +12,11 @@ I’m Cofounder and Director of [Dynamo](http://dynamo.vc), responsible for the 
 In my free time, I enjoy traveling and hiking which I’ve channeled into a hobby of taking photos wherever I go. Additionally, I like to work out, cook, and root for Penn State football. I live in Chattanooga, TN with my wife and rambunctious golden retrievers.
 
 ## System of Record
+### 2017
+In March, enjoyed a two-weekend wedding celebration where Melissa and I got married.
+
+In the fall, earned Forbes 30 Under 30 accolades for Venture Capital.
+
 ### 2016
 Collaborated on the launch of the Dynamo — a group of investors and operators focused on the logistics, supply chain and transportation industries.
 
