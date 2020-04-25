@@ -1,24 +1,31 @@
-## Welcome to my place on the internet.
-
-I try to **write** regularly, you can see what my latest thoughts are [here](https://medium.com/@santoshsankar).
-
-I **engage** most on social media, you can chat with me on [Twitter](http://twitter.com/@santoshsankar).
+# Hi, I'm Santosh.
 
 ## About Me
-I’m Cofounder and Director of [Dynamo](http://dynamo.vc), responsible for the strategic vision, planning, and execution (investing) of our global seed fund. Our investing activities tend to focus on early stage technology businesses that have the potential to transform commerce with a concentration in what we dub “logistics technology” that encompasses supply chain and transportation.
+I’m a Founding Partner of Dynamo Ventures. We invest in exceptional seed stage founders building startups in supply chain and mobility.
 
-**I believe that people & product are the fundamental units of any business.** I enjoy discussions around the intersection of design, technology, business, and the capital markets. Sector-wise, I am particularly interested in anything related to global trade and commerce: supply chain, transportation, insurance, and financial services.
+**I believe that people are the fundamental unit of any business.** It's people that build products, ramp go-to-market, and scale organizations that define industries and change markets.
 
-In my free time, I enjoy traveling and hiking which I’ve channeled into a hobby of taking photos wherever I go. Additionally, I like to work out, cook, and root for Penn State football. I live in Chattanooga, TN with my wife and rambunctious golden retrievers.
+Personally, I have a variety of interests including technology, design, and the outdoors. Additionally, I like to work out, cook, and root for Penn State football. I enjoy discussions around the intersection of design, technology, business, and the capital markets.
+
+I live in Chattanooga, TN with my wife, son, and rambunctious golden retrievers.
 
 ## System of Record
+
+### 2019
+In the Spring, I began advising Happy Valley Capital, a Penn State student organization focused on education their membership on startups and venture capital.
+
+In June, Jon Bradford joined Dynamo as our fourth Partner after serving as an Advisor since our inception - huge level up for the whole team.
+
+#### 2018
+In January, my wife and I welcomed our son, #myBudHud to the world.
+
 ### 2017
 In March, enjoyed a two-weekend wedding celebration where Melissa and I got married.
 
 In the fall, earned Forbes 30 Under 30 accolades for Venture Capital.
 
 ### 2016
-Collaborated on the launch of the Dynamo — a group of investors and operators focused on the logistics, supply chain and transportation industries.
+Co-founded [Dynamo Ventures](http://dynamo.vc), a supply chain and mobility seed fund.
 
 ### 2015
 I joined Lamp Post Group in Chattanooga, TN, as part of a grand experiment — Lamp Post Labs, an innovation lab. In December, I transitioned to my current role and began laying out the roadmap for Dynamo.
