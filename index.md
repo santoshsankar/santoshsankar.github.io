@@ -1,6 +1,3 @@
-# Hi, I'm Santosh.
-
-## About Me
 I’m a Founding Partner of Dynamo Ventures. We invest in exceptional seed stage founders building startups in supply chain and mobility.
 
 **I believe that people are the fundamental unit of any business.** It's people that build products, ramp go-to-market, and scale organizations that define industries and change markets.
