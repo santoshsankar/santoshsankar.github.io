@@ -13,7 +13,7 @@ In the Spring, I began advising Happy Valley Capital, a Penn State student organ
 
 In June, Jon Bradford joined Dynamo as our fourth Partner after serving as an Advisor since our inception - huge level up for the whole team.
 
-#### 2018
+### 2018
 In January, my wife and I welcomed our son, #myBudHud to the world.
 
 ### 2017
